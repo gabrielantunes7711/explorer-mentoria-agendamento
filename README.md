@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <img alt="layout desafio criando formulários" src="images/layout.jpg" width="30%">
+  <img alt="layout desafio criando formulários" src="images/layout.jpg" width="50%">
 </p>
 
 ## 🖥️ Tecnologias
@@ -30,5 +30,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <div>
   <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
-
-## :memo: Licença
